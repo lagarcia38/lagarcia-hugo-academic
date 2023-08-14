@@ -1,36 +1,38 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Luis Antonio Garcia
+role: Assistant Professor at the University of Utah Kahlert School of Computing
+avatar_filename: usc-headshot.jpg
+bio: My research interests are broadly in the security, safety, and privacy of
+  learning-enabled Cyber-physical Systems and Internet-of-Things Systems
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
-
-# Education to show in About widget
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,43 +44,13 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hi! I’m Dr. Luis Antonio Garcia. I am an Assistant Professor at [The University of Utah Kahlert School of Computing](https://www.cs.utah.edu/) focusing on the security and safety of learning-enabled Cyber-physical Systems (CPS)/Internet-of-Things (IoT). I was previously a Research Assistant Professor at the [USC Department of Computer Science](https://www.cs.usc.edu/) and a Research Lead at the  [USC Information Sciences Institute](https://www.isi.edu/). I previously held a postdoctoral appointment at the [Networked & Embedded Systems Laboratory](http://nesl.ee.ucla.edu/) at the [UCLA ECE Department](https://www.ee.ucla.edu/), collaborating with [Dr. Mani Srivastava](https://scholar.google.com/citations?user=X2Qs7XYAAAAJ&hl=en). I have my PhD in Computer Engineering with a Cybersecurity focus from [Rutgers University](https://www.ece.rutgers.edu/), where my research advisor was Dr. Saman Zonouz--who is now at Georgia Tech. My dissertation was titled “Physics for the Sake of Security, Security for the Sake of Physics”. Please don’t confuse me with the other Dr. Luis Garcia from Rutgers that roamed the academic world of the 80’s.
+I was previously an academic intern at the Logical Systems Lab at Carnegie Mellon University, where I collaborated with Dr. André Platzer in 2017. We worked on the verification of programmable logic controllers (PLCs) in the context of cyber-physical systems. I also interned as a Software Developer Intern at Siemens Corporate Research in 2015 working with Dr. Dong Wei on PLC security.
