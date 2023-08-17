@@ -36,15 +36,21 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Postdoctoral Fellow
+      institution: University of California, Los Angeles
+      year: ""
+    - course: PhD in Computer Engineering, Cybersecurity Track
+      institution: Rutgers University
+      year: 2018
+    - course: Visiting Scholar
+      institution: Carnegie Mellon University
+      year: 2017
+    - course: MS in Computer and Electrical Engineering
+      institution: University of Miami
+      year: 2013
+    - course: BS in Computer Engineering
+      institution: University of Miami
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 superuser: true
 status:
   icon: ☕️
