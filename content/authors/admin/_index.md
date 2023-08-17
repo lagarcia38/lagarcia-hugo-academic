@@ -1,6 +1,7 @@
 ---
 title: Luis Antonio Garcia
 role: Assistant Professor at the University of Utah Kahlert School of Computing
+avatar_filename: avatar.jpg
 bio: My research interests are broadly in the security, safety, and privacy of
   learning-enabled Cyber-physical Systems and Internet-of-Things Systems
 interests:
