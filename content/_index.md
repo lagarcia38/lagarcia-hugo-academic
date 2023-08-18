@@ -27,17 +27,17 @@ sections:
         - title: Assistant Professor
           company: University of Utah Kahlert School of Computing
           company_url: 'https://cs.utah.edu'
-          company_logo: utah-logo
+          company_logo: org-gc
           location: Salt Lake City, Utah
           date_start: '2023-07-01'
           date_end: ''
         - title: Research Lead and Research Assistant Professor
           company: University of Southern California, Information Sciences Institute
           company_url: 'https://isi.edu'
-          company_logo: usc-logo
+          company_logo: org-x
           location: California
           date_start: '2020-07-01'
-          date_end: '2023-06-31'
+          date_end: '2023-06-30'
     design:
       columns: '2'
   - block: collection
