@@ -4,7 +4,7 @@ url_pdf: ""
 summary: "O﻿ngoing NSF Neural Cognitive Systems Project on decoding how humans
   encode memorie "
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Trustworthy IoT-in-the-loop Neuroscience (NSF NCS)
@@ -20,7 +20,7 @@ links:
     name: ""
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2124252&HistoricalAwards=false
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
