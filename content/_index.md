@@ -67,32 +67,29 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-
-  - block: collection
-    id: teaching
+  - block: group
+    id: group-members
     content:
-      title: Teaching
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - teaching
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      title: Group Members
+      subtitle: Meet the members of our research group
+      members:
+        - name: Jane Doe
+          title: PhD Student
+          bio: Jane is researching machine learning techniques.
+          photo: images/jane-doe.jpg
+          social:
+            - icon: linkedin
+              icon_pack: fab
+              link: https://www.linkedin.com/in/jane-doe/
+        - name: John Smith
+          title: MSc Student
+          bio: John is working on natural language processing.
+          photo: images/john-smith.jpg
+          social:
+            - icon: twitter
+              icon_pack: fab
+              link: https://twitter.com/johnsmith
     design:
-      # Choose a layout view
-      view: compact
+      view: team
       columns: '2'
 ---
